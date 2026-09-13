@@ -1,31 +1,52 @@
-<h1 align="center">Hi 👋, I'm JYOTI RANJAN SAHOO</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiranjansahooo" alt="jyotiranjansahooo" /></a> </p>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+jyotiranjansahooo%40github%3A~%24+whoami;A+Full-Stack+Developer+building+a+better+tomorrow;Build.+Learn.+Improve.+Repeat."
+alt="Typing SVG"
+/>
 
-- 🔭 I’m currently working on [GreenBasket](https://greenbasket-market.vercel.app)
+<br />
 
-- 🌱 I’m currently learning **AI/ML**
+# Hi 👋, I'm Jyoti Ranjan Sahoo
 
-- 👨‍💻 All of my projects are available at [https://github.com/jyotiranjansahooo](https://github.com/jyotiranjansahooo)
+### Aspiring Full-Stack Developer from India 🇮🇳
 
-- 📫 How to reach me **jyotiranjansahoo038@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DN3LWJxr-rB0PQqixpWgujhSNnDqcMiU/view?usp=sharing](https://drive.google.com/file/d/1DN3LWJxr-rB0PQqixpWgujhSNnDqcMiU/view?usp=sharing)
-
-- ⚡ Fun fact **I'm not funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jyoti ranjan sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti ranjan sahoo" height="30" width="40" /></a>
-<a href="https://instagram.com/jr.sahooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jr.sahooo" height="30" width="40" /></a>
+<p>
+I build modern and scalable web applications with a focus on
+clean architecture, interactive UI/UX, and smooth user experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+<a href="https://github.com/jyotiranjansahooo">
+<img src="https://img.shields.io/github/followers/jyotiranjansahooo?label=Followers&style=for-the-badge&logo=github&color=22D3EE&labelColor=0D1117" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotiranjansahooo&show_icons=true&locale=en&layout=compact" alt="jyotiranjansahooo" /></p>
+<a href="https://github.com/jyotiranjansahooo?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Projects-GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotiranjansahooo&show_icons=true&locale=en" alt="jyotiranjansahooo" /></p>
+<a href="mailto:jyotiranjansahoo038@gmail.com">
+<img src="https://img.shields.io/badge/Contact%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiranjansahooo&" alt="jyotiranjansahooo" /></p>
+<img
+src="https://komarev.com/ghpvc/?username=jyotiranjansahooo&label=Profile%20Views&color=22D3EE&style=flat-square"
+alt="Profile Views"
+/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```text
+👨‍💻 Name        : Jyoti Ranjan Sahoo
+📍 Location      : Bhubaneswar, Odisha, India
+🎓 Education     : Master of Computer Applications
+💻 Role          : Aspiring Full-Stack Developer
+🔥 Focus         : MERN Stack & Next.js
+🎨 Passion       : Interactive UI/UX & GSAP Animations
+🏗️ Architecture  : Clean & Scalable Applications
+☕ Fuel          : Coffee = Better Code
