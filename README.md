@@ -5,11 +5,9 @@
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Jyoti+Ranjan+Sahoo+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+TypeScript;Build.+Learn.+Improve.+Repeat."
-alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1000&color=E8D5A3&center=true&vCenter=true&repeat=true&width=950&lines=%F0%9F%91%8B+%F0%9D%93%97%F0%9D%93%B2%2C+%F0%9D%93%98%27%F0%9D%93%B6+%F0%9D%93%99%F0%9D%94%82%F0%9D%93%BD%F0%9D%93%B2+%F0%9D%93%A1%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B3%F0%9D%93%AA%F0%9D%93%B7+%F0%9D%93%A2%F0%9D%93%AA%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%B8"
+alt="Jyoti Ranjan Sahoo"
 />
-
-<h1>👋 𝓗𝓲, 𝓘'𝓶 𝓙𝔂𝓸𝓽𝓲 𝓡𝓪𝓷𝓳𝓪𝓷 𝓢𝓪𝓱𝓸𝓸</h1>
 
 <h3>Full-Stack Developer from India 🇮🇳</h3>
 
@@ -43,64 +41,52 @@ alt="Profile Views"
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-# 🧑‍💻 ABOUT ME
+<h2>🧑‍💻 ABOUT ME</h2>
 
-I'm **Jyoti Ranjan Sahoo**, a full-stack developer from India.
+I'm <strong>Jyoti Ranjan Sahoo</strong>, a full-stack developer from India.
 
-Currently pursuing my **Master of Computer Applications**. I enjoy building modern web applications, solving real-world problems, and creating interactive user experiences.
+Currently pursuing my <strong>Master of Computer Applications</strong>. I enjoy building modern web applications, solving real-world problems, and creating interactive user experiences.
 
 I have experience working on full-stack applications and continuously improve my development skills.
 
 <br/>
 
-👤 **Name:** Jyoti Ranjan Sahoo
+👤 <strong>Name:</strong> Jyoti Ranjan Sahoo
 
-🎓 **Education:** MCA (2025 – Present)
+🎓 <strong>Education:</strong> MCA (2025 – Present)
 
-📍 **Location:** Bhubaneswar, Odisha, India
+📍 <strong>Location:</strong> Bhubaneswar, Odisha, India
 
-💻 **Role:** Full-Stack Developer
+💻 <strong>Role:</strong> Full-Stack Developer
 
-🔥 **Focus:** MERN Stack & Next.js
+🔥 <strong>Focus:</strong> MERN Stack & Next.js
 
-🎨 **Passion:** Interactive UI/UX & GSAP
+🎨 <strong>Passion:</strong> Interactive UI/UX & GSAP
 
-☕ **Fuel:** Coffee + Better Code
+☕ <strong>Fuel:</strong> Coffee + Better Code
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-# ⚙️ TECH STACK
+<h2>⚙️ TECH STACK</h2>
 
-### 🌐 Frontend
-
-<p align="center">
+<h3>🌐 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,gsap"/>
 
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
+<h3>⚙️ Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb"/>
 
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
+<h3>🛠️ Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</p>
 
 </td>
 
@@ -111,22 +97,26 @@ I have experience working on full-stack applications and continuously improve my
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+<h1>🚀 FEATURED PROJECTS</h1>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-## 🌱 GreenBasket
+<h2>🌱 GreenBasket</h2>
 
-### Agriculture Marketplace Platform
+<h3>Agriculture Marketplace Platform</h3>
 
 <a href="https://greenbasket-market.vercel.app/">
 
-<img src="./assets/greenbasket.png" width="100%" alt="GreenBasket"/>
+<img
+src="./assets/greenbasket.png"
+width="100%"
+alt="GreenBasket"
+/>
 
 </a>
 
@@ -154,15 +144,19 @@ A modern agriculture marketplace platform connecting users with a smooth and use
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-## 🚗 SlotGo
+<h2>🚗 SlotGo</h2>
 
-### Vehicle & Slot Management Platform
+<h3>Vehicle & Slot Management Platform</h3>
 
 <a href="https://slotgo.vercel.app/owner">
 
-<img src="./assets/slotgo.png" width="100%" alt="SlotGo"/>
+<img
+src="./assets/slotgo.png"
+width="100%"
+alt="SlotGo"
+/>
 
 </a>
 
@@ -195,112 +189,71 @@ A web platform focused on vehicle and slot management with a modern and interact
 
 ---
 
-<h1 align="center">📊 GITHUB STATS</h1>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=jyotiranjansahooo&show_icons=true&theme=tokyonight"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjansahooo&layout=compact&theme=tokyonight"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-# 🔥 GITHUB STREAK
+<h1 align="center">🔥 GITHUB STREAK</h1>
 
 <div align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=jyotiranjansahooo&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=FFFFFF"
+alt="GitHub Streak"
 />
 
 </div>
 
 ---
 
-<h1 align="center">📈 CONTRIBUTION ACTIVITY</h1>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiranjansahooo&theme=tokyo-night&hide_border=true"
-alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
-<h1 align="center">🏆 GITHUB TROPHIES</h1>
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=jyotiranjansahooo&theme=tokyonight&no-frame=true&margin-w=10"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-# 💼 EXPERIENCE
+<h2>💼 EXPERIENCE</h2>
 
-## 💻 Web Development Specialist
+<h3>💻 Web Development Specialist</h3>
 
-**Tetra Trion Technologies Pvt. Ltd.**
+<strong>Tetra Trion Technologies Pvt. Ltd.</strong>
 
 📍 Bhubaneswar
 
-- Built full-stack e-commerce applications
-- Developed responsive user interfaces
-- Created reusable UI components
-- Built cart and checkout experiences
-- Designed REST APIs
-- Worked with authentication and protected routes
-- Integrated MongoDB databases
-- Implemented error handling and logging
-- Worked with deployment and environment configuration
+<ul>
+<li>Built full-stack e-commerce applications</li>
+<li>Developed responsive user interfaces</li>
+<li>Created reusable UI components</li>
+<li>Built cart and checkout experiences</li>
+<li>Designed REST APIs</li>
+<li>Worked with authentication and protected routes</li>
+<li>Integrated MongoDB databases</li>
+<li>Implemented error handling and logging</li>
+<li>Worked with deployment and environment configuration</li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-# 🎓 EDUCATION
+<h2>🎓 EDUCATION</h2>
 
-## 🎓 Master of Computer Applications
+<h3>🎓 Master of Computer Applications</h3>
 
-**Gandhi Institute of Technology and Management**
+<strong>Gandhi Institute of Technology and Management</strong>
 
 📅 2025 – Present
 
-<br/>
+<br/><br/>
 
-## 🎓 Bachelor of Computer Applications
+<h3>🎓 Bachelor of Computer Applications</h3>
 
-**IBMT Bhubaneswar**
+<strong>IBMT Bhubaneswar</strong>
 
 📅 2022 – 2025
 
-<br/>
+<br/><br/>
 
-## 🎓 Bachelor of Science
+<h3>🎓 Bachelor of Science</h3>
 
-**Rajdhani College, Bhubaneswar**
+<strong>Rajdhani science College, Bhubaneswar</strong>
 
-Physical Sciences
+📅 2020 – 2022
 
 </td>
 
@@ -309,7 +262,7 @@ Physical Sciences
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+<h1 align="center">🐍 CONTRIBUTION SNAKE</h1>
 
 <div align="center">
 
@@ -322,7 +275,38 @@ alt="GitHub Contribution Snake Animation"
 
 ---
 
-# 🤝 CONNECT WITH ME
+<h1 align="center">🏆 GITHUB ACHIEVEMENTS</h1>
+
+<div align="center">
+
+  <a href="https://github.com/jyotiranjansahooo?achievement=pull-shark&tab=achievements">
+    <img 
+      src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"
+      width="120"
+      alt="Pull Shark Achievement"
+    />
+  </a>
+
+  <a href="https://github.com/jyotiranjansahooo?achievement=yolo&tab=achievements">
+    <img 
+      src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png"
+      width="120"
+      alt="YOLO Achievement"
+    />
+  </a>
+
+  <a href="https://github.com/jyotiranjansahooo?achievement=quickdraw&tab=achievements">
+    <img 
+      src="https://github.githubassets.com/assets/quickdraw-default--medium-0bdca502f5b4.png"
+      width="120"
+      alt="Quickdraw Achievement"
+    />
+  </a>
+
+</div>
+
+---
+<h1 align="center">🤝 CONNECT WITH ME</h1>
 
 <div align="center">
 
@@ -348,6 +332,7 @@ alt="GitHub Contribution Snake Animation"
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Keep+Learning.+Keep+Building.+Keep+Improving.;Build.+Learn.+Improve.+Repeat.;Thanks+for+visiting+my+profile!+%F0%9F%9A%80"
+alt="Typing SVG"
 />
 
 <br/><br/>
