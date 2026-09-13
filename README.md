@@ -5,15 +5,18 @@
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Jyoti+Ranjan+Sahoo+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+TypeScript;Build.+Learn.+Improve.+Repeat."
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Jyoti+Ranjan+Sahoo+%F0%9F%91%8B;Aspiring+Full-Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+TypeScript;Build.+Learn.+Improve.+Repeat."
 alt="Typing SVG"
 />
-# 👋 𝓗𝓲, 𝓘'𝓶 𝓙𝔂𝓸𝓽𝓲 𝓡𝓪𝓷𝓳𝓪𝓷 𝓢𝓪𝓱𝓸𝓸
 
-### Full-Stack Developer from India 🇮🇳
+<h1>👋 𝓗𝓲, 𝓘'𝓶 𝓙𝔂𝓸𝓽𝓲 𝓡𝓪𝓷𝓳𝓪𝓷 𝓢𝓪𝓱𝓸𝓸</h1>
 
-I build modern and scalable web applications with a focus on interactive UI/UX,  
+<h3>Full-Stack Developer from India 🇮🇳</h3>
+
+<p>
+I build modern and scalable web applications with a focus on interactive UI/UX,<br/>
 smooth animations, clean architecture, and great user experiences.
+</p>
 
 <br/>
 
@@ -55,19 +58,19 @@ I have experience working on full-stack applications and continuously improve my
 
 <br/>
 
-👤 **Name**  Jyoti Ranjan Sahoo
+👤 **Name:** Jyoti Ranjan Sahoo
 
-🎓 **Education**  MCA (2025 – Present)
+🎓 **Education:** MCA (2025 – Present)
 
-📍 **Location**  Bhubaneswar, Odisha, India
+📍 **Location:** Bhubaneswar, Odisha, India
 
-💻 **Role**   Full-Stack Developer
+💻 **Role:** Full-Stack Developer
 
-🔥 **Focus**  MERN Stack & Next.js
+🔥 **Focus:** MERN Stack & Next.js
 
-🎨 **Passion**  Interactive UI/UX & GSAP
+🎨 **Passion:** Interactive UI/UX & GSAP
 
-☕ **Fuel**  Coffee + Better Code
+☕ **Fuel:** Coffee + Better Code
 
 </td>
 
@@ -83,8 +86,6 @@ I have experience working on full-stack applications and continuously improve my
 
 </p>
 
----
-
 ### ⚙️ Backend
 
 <p align="center">
@@ -92,8 +93,6 @@ I have experience working on full-stack applications and continuously improve my
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts,mongodb"/>
 
 </p>
-
----
 
 ### 🛠️ Tools
 
@@ -109,13 +108,14 @@ I have experience working on full-stack applications and continuously improve my
 </table>
 
 ---
-<p align="center">
+
+<div align="center">
 
 # 🚀 FEATURED PROJECTS
-</p>
+
+</div>
 
 <table>
-
 <tr>
 
 <td width="50%" align="center">
@@ -137,11 +137,15 @@ A modern agriculture marketplace platform connecting users with a smooth and use
 <br/><br/>
 
 <a href="https://greenbasket-market.vercel.app/">
+
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-22C55E?style=for-the-badge"/>
+
 </a>
 
 <a href="https://github.com/jyotiranjansahooo/greenBasket">
+
 <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <br/><br/>
@@ -169,11 +173,15 @@ A web platform focused on vehicle and slot management with a modern and interact
 <br/><br/>
 
 <a href="https://slotgo.vercel.app/owner">
+
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-22C55E?style=for-the-badge"/>
+
 </a>
 
 <a href="https://github.com/jyotiranjansahooo/slotgo">
+
 <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <br/><br/>
@@ -183,20 +191,23 @@ A web platform focused on vehicle and slot management with a modern and interact
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 📊 GITHUB STATS
+<h1 align="center">📊 GITHUB STATS</h1>
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=jyotiranjansahooo&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=22D3EE"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=jyotiranjansahooo&show_icons=true&theme=tokyonight"
+alt="GitHub Stats"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjansahooo&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjansahooo&layout=compact&theme=tokyonight"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -207,31 +218,33 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiranjans
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=jyotiranjansahooo&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=22D3EE"
+src="https://streak-stats.demolab.com?user=jyotiranjansahooo&theme=transparent&hide_border=true&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=FFFFFF"
 />
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+<h1 align="center">📈 CONTRIBUTION ACTIVITY</h1>
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiranjansahooo&bg_color=0D1117&color=22D3EE&line=14B8A6&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiranjansahooo&theme=tokyo-night&hide_border=true"
+alt="GitHub Contribution Activity"
 />
 
 </div>
 
 ---
 
-# 🏆 GITHUB TROPHIES
+<h1 align="center">🏆 GITHUB TROPHIES</h1>
 
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=jyotiranjansahooo&theme=algolia&no-frame=true&no-bg=true&margin-w=8"
+src="https://github-profile-trophy.vercel.app/?username=jyotiranjansahooo&theme=tokyonight&no-frame=true&margin-w=10"
+alt="GitHub Trophies"
 />
 
 </div>
@@ -239,7 +252,6 @@ src="https://github-profile-trophy.vercel.app/?username=jyotiranjansahooo&theme=
 ---
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -293,7 +305,6 @@ Physical Sciences
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -303,8 +314,8 @@ Physical Sciences
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/jyotiranjansahooo/jyotiranjansahooo/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake Animation"
+src="https://raw.githubusercontent.com/jyotiranjansahooo/jyotiranjansahooo/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake Animation"
 />
 
 </div>
@@ -316,22 +327,24 @@ Physical Sciences
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jyoti-ranjan-sahoo-80bb6a36a/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Jyoti%20Ranjan%20Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/jyotiranjansahooo">
+
 <img src="https://img.shields.io/badge/GitHub-jyotiranjansahooo-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="mailto:jyotiranjansahoo038@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Keep+Learning.+Keep+Building.+Keep+Improving.;Build.+Learn.+Improve.+Repeat.;Thanks+for+visiting+my+profile!+%F0%9F%9A%80"
@@ -339,6 +352,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
 
 </div>
