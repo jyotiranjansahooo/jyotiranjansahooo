@@ -5,8 +5,8 @@
 <br/><br/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1000&color=E8D5A3&center=true&vCenter=true&repeat=true&width=950&lines=%F0%9F%91%8B+%F0%9D%93%97%F0%9D%93%B2%2C+%F0%9D%93%98%27%F0%9D%93%B6+%F0%9D%93%99%F0%9D%94%82%F0%9D%93%BD%F0%9D%93%B2+%F0%9D%93%A1%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B3%F0%9D%93%AA%F0%9D%93%B7+%F0%9D%93%A2%F0%9D%93%AA%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%B8"
-alt="Jyoti Ranjan Sahoo"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3500&pause=1000&color=87CEFA&center=true&vCenter=true&repeat=true&width=1100&height=90&lines=%F0%9F%91%8B+%F0%9D%93%97%F0%9D%93%B2%2C+%F0%9D%93%98%27%F0%9D%93%B6+%F0%9D%93%99%F0%9D%94%82%F0%9D%93%B8%F0%9D%93%BD%F0%9D%93%B2+%F0%9D%93%A1%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%B3%F0%9D%93%AA%F0%9D%93%B7+%F0%9D%93%A2%F0%9D%93%AA%F0%9D%93%B1%F0%9D%93%B8%F0%9D%93%B8"
+  alt="👋🏻 Hi, I'm Jyoti Ranjan Sahoo"
 />
 
 <h3>Full-Stack Developer from India 🇮🇳</h3>
@@ -337,6 +337,6 @@ alt="Typing SVG"
 
 <br/><br/>
 
-<h3>⭐ Thanks for visiting my profile!</h3>
+<h3>⭐ Thanks for visiting my profile! 👋🏻</h3>
 
 </div>
